@@ -14,3 +14,7 @@ chrome_driver.get('https://youtube.com')
 engine = pyttsx3.init()
 engine.say('Sir, here is google')
 engine.runAndWait()
+
+
+# Still in progress this is the oldest version of the script trust me newer is :O.
+# added to save a repo
